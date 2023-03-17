@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+
+#conteiner{
+    text-align: center;
+}
+
+table{
+    display:inline-table;
+    width: 50%;
+    border-collapse: collapse;
+    border:1px solid;        
+}
+
+th{
+    border:1px solid;
+}
+
+footer{
+    text-align: center;
+}

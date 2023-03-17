@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+#conteiner{
+    text-align: center;
+}
+
+table{          
+    border: 1px solid;
+    display:inline-table;
+    margin-inline: 30px;    
+}
+
+th{
+    border: 1px solid;    
+    height: 50px;
+    width: 50px;
+}
+
+td{
+    border: 1px solid;
+    height: 50px;
+    width: 50px;
+}
+
+#tab1{
+    display: inline-table;
+    vertical-align: middle;    
+}
+
+footer{
+    text-align: center;
+}   

@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+
+#conteiner{
+    text-align: center;    
+}
+
+table{
+    display:inline-table;    
+    width: 50%;
+    border-collapse: collapse;
+    border: 1px solid;
+}
+
+td{    
+    border: 1px solid;    
+}
+
+.topo{
+    padding: 30px;
+}
+
+.fim{
+    padding: 10px;
+}
+
+.meio{
+    padding-top: 100px; 
+    padding-bottom: 100px;
+}
+
+tr{
+    border:1px solid;
+}
+
+footer{
+    text-align: center;
+}
